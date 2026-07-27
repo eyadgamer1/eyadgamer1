@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=140&section=header&text=REAPER&fontSize=50&fontColor=39FF14&fontAlignY=40&desc=Offensive%20Security%20%7C%20Malware%20Analysis%20%7C%20DFIR&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=60&lines=Eyad+Yasser;%22reaper%22;Offensive+Security+%7C+DFIR" alt="Eyad Yasser" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Cybersecurity+Engineering+Student+%40+AASTMT+Cairo;Malware+Analysis+%E2%80%A2+Threat+Hunting+%E2%80%A2+Red+Team+Tooling;CPTS+in+progress+%E2%80%A2+Python+%E2%80%A2+Kali+Linux" alt="subtitle" />
@@ -10,6 +12,13 @@
 ![Cert](https://img.shields.io/badge/Studying-HTB_CPTS-00D9FF?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Based_in-Cairo,_EG-c9d1d9?style=flat-square&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=eyadgamer1&color=39ff14&style=flat-square&label=Visitors)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -117,6 +126,21 @@ Parses and correlates log data to surface incidents and reconstruct timelines fa
 
 <br/>
 
+## `$ ./stats --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eyadgamer1&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=00D9FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadgamer1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=eyadgamer1&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=eyadgamer1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+
+</div>
+
+<br/>
+
 ## `$ ./connect`
 
 <div align="center">
@@ -127,5 +151,9 @@ Parses and correlates log data to surface incidents and reconstruct timelines fa
 <br/>
 
 <sub><i>"The quieter you become, the more you are able to hear."</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
