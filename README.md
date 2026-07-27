@@ -131,7 +131,9 @@ Parses and correlates log data to surface incidents and reconstruct timelines fa
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=eyadgamer1&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9" width="70%"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/eyadgamer1&label=Repos&query=%24.public_repos&color=39FF14&style=for-the-badge&labelColor=0d1117&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/eyadgamer1/eyadgamer1?style=for-the-badge&color=00D9FF&labelColor=0d1117&logo=git&logoColor=00D9FF)
+![Account Age](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/eyadgamer1&label=Member+Since&query=%24.created_at&color=c9d1d9&style=for-the-badge&labelColor=0d1117)
 
 </div>
 
