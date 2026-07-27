@@ -1,87 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Eyad%20Yasser&fontSize=60&fontColor=39ff14&animation=fadeIn&fontAlignY=35&desc=%22reaper%22%20%7C%20Offensive%20Security%20%26%20DFIR&descAlignY=55&descSize=18&descColor=00d9ff" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=60&lines=Eyad+Yasser;%22reaper%22;Offensive+Security+%7C+DFIR" alt="Eyad Yasser" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student;Offensive+Security+%7C+Malware+Analysis+%7C+DFIR;Building+Tools+That+Break+Things+(Legally);Kali+Linux+%7C+Python+%7C+CPTS+in+Progress" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Cybersecurity+Engineering+Student+%40+AASTMT+Cairo;Malware+Analysis+%E2%80%A2+Threat+Hunting+%E2%80%A2+Red+Team+Tooling;CPTS+in+progress+%E2%80%A2+Python+%E2%80%A2+Kali+Linux" alt="subtitle" />
+
+<br/>
+
+![Focus](https://img.shields.io/badge/Focus-Offensive_Security-39FF14?style=flat-square&labelColor=0d1117)
+![Cert](https://img.shields.io/badge/Studying-HTB_CPTS-00D9FF?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Based_in-Cairo,_EG-c9d1d9?style=flat-square&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=eyadgamer1&color=39ff14&style=flat-square&label=Visitors)
 
 </div>
 
----
+<br/>
 
-### `whoami`
+## `$ whoami`
 
-```bash
-$ whoami
-reaper@cairo:~$ 3rd-year Cybersecurity Engineering student @ AASTMT
-                 Focused on offensive security, malware analysis & DFIR
-                 Working toward CPTS certification (HTB Academy)
-                 Building an offensive security brand from the ground up
+```console
+reaper@cairo:~$ cat profile.txt
+
+  NAME     : Eyad Yasser
+  HANDLE   : reaper
+  ROLE     : Cybersecurity Engineering student, 3rd year — AASTMT Cairo
+  DOMAINS  : Offensive Security | Malware Analysis | Digital Forensics & IR
+  CURRENT  : HTB Academy — CPTS track
+  BUILDING : Security tooling in Python. Recon, triage, and log analysis.
+  GOAL     : Offensive security engineering, professionally.
+
+reaper@cairo:~$ _
 ```
 
----
+<br/>
 
-### 🛠️ Arsenal
+## `$ ls -la ~/focus`
+
+| Domain | What I Actually Do |
+| :--- | :--- |
+| **Offensive Security** | Network recon, host enumeration, exposure mapping, exploitation methodology |
+| **Malware Analysis** | Static and behavioral triage, sample handling, offline analysis workflows |
+| **DFIR** | Log analysis, timeline reconstruction, incident triage automation |
+| **Tooling** | Python CLI tooling built for real engagement workflows, not demos |
+
+<br/>
+
+## `$ cat ~/.arsenal`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00D9FF?style=for-the-badge&logo=kalilinux&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=39FF14)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF4500?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-00D9FF?style=for-the-badge&logo=wireshark&logoColor=black)
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14)
+
+**Offensive**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF)
+![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00D9FF)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00D9FF)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00D9FF)
+
+**Analysis & Defense**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=c9d1d9)
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logo=ghidra&logoColor=c9d1d9)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=c9d1d9)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=c9d1d9)
 
 </div>
 
----
+<br/>
 
-### 🧪 Featured Work
+## `$ ./projects --list`
 
-> Some repos are private — descriptions below, links go public once released.
+> Several repositories are private while under active development. Descriptions below; links go live on release.
 
-**🩸 BANSHEE**
-Passive-first network scanner for host enumeration and exposure mapping — no exploitation, ever. Built for recon-heavy engagements where staying quiet matters.
-`python` `cli` `pentest` `fingerprinting` `network-scanner`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**🔬 MalSeer**
-Offline malware analysis pipeline — static/behavioral triage without needing live sandboxes or internet-connected tooling.
-`python` `malware-analysis` `offline-first`
+### 🩸 BANSHEE
 
-**🕵️ LogSherlock**
-Autonomous DFIR agent that chews through logs to surface incidents faster than doing it by hand.
-`python` `dfir` `automation`
+**Passive-first network scanner**
 
----
+Host enumeration and exposure mapping with a hard rule: reconnaissance only, no exploitation. Built for engagements where staying quiet is the requirement, not a preference.
 
-### 📊 GitHub Stats
+`Python` `CLI` `Recon` `Fingerprinting`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔬 MalSeer
+
+**Offline malware analysis pipeline**
+
+Static and behavioral triage that runs fully air-gapped. No cloud sandbox dependency, no sample leaving the environment.
+
+`Python` `Malware Analysis` `Offline`
+
+</td>
+<td width="33%" valign="top">
+
+### 🕵️ LogSherlock
+
+**Autonomous DFIR agent**
+
+Parses and correlates log data to surface incidents and reconstruct timelines faster than manual review allows.
+
+`Python` `DFIR` `Automation`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `$ git log --stat`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyadgamer1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadgamer1&theme=highcontrast&hide_border=true&background=0D1117&stroke=39FF14&ring=00D9FF&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eyadgamer1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadgamer1&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadgamer1&hide_border=true&background=0D1117&stroke=30363d&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=eyadgamer1&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+## `$ ./snake --run`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/snake.svg" />
+</picture>
 
 </div>
 
-<sub>⚙️ Snake animation needs a one-time GitHub Action setup — see setup note below.</sub>
+<br/>
 
----
+## `$ ./connect`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyad-yasser-2039a728b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/eyad-yasser-2039a728b)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/eyadgamer1)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<br/>
+
+<sub><i>"The quieter you become, the more you are able to hear."</i></sub>
 
 </div>
