@@ -11,6 +11,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Offensive_Security-39FF14?style=flat-square&labelColor=0d1117)
 ![Cert](https://img.shields.io/badge/Studying-HTB_CPTS-00D9FF?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Based_in-Cairo,_EG-c9d1d9?style=flat-square&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/eyadgamer1?style=flat-square&label=Followers&color=39ff14&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=eyadgamer1&color=39ff14&style=flat-square&label=Visitors)
 
 <br/>
@@ -130,12 +131,7 @@ Parses and correlates log data to surface incidents and reconstruct timelines fa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyadgamer1&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=00D9FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadgamer1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=eyadgamer1&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eyadgamer1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
 
 </div>
 
