@@ -117,38 +117,6 @@ Parses and correlates log data to surface incidents and reconstruct timelines fa
 
 <br/>
 
-## `$ git log --stat`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eyadgamer1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadgamer1&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadgamer1&hide_border=true&background=0D1117&stroke=30363d&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eyadgamer1&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
-<br/>
-
-## `$ ./snake --run`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/eyadgamer1/eyadgamer1/output/snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
 ## `$ ./connect`
 
 <div align="center">
